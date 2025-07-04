@@ -12,3 +12,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.select-menu{
+    width: 300px;
+    cursor: pointer;
+    position: relative;
+}
