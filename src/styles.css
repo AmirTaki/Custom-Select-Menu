@@ -49,3 +49,8 @@ body {
     font-size: 14px;
     transition: .3s ease-in-out;
 }
+
+.option:hover {
+    color:#00a8ff;
+}
+
