@@ -41,6 +41,7 @@ body {
     max-height: 180px;
     overflow-y: auto;
     transition: .4s linear .2s;
+    height: 0;
 }
 
 .option {
