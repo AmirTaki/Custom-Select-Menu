@@ -54,3 +54,11 @@ body {
     color:#00a8ff;
 }
 
+
+.options-list::-webkit-scrollbar{
+    width: 4px;
+    background-color: #eee;
+}
+.options-list::-webkit-scrollbar-thumb{
+    background-color: #00a8ff;
+}
