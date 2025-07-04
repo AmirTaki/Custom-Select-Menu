@@ -7,4 +7,5 @@ const options = document.querySelectorAll(".options")
 
 select.addEventListener("click", (e)=>{
     options_list.classList.toggle("active")
+    select.querySelector(".fa-angle-down").classList.toggle("fa-angle-up")
 })
