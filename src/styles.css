@@ -63,3 +63,7 @@ body {
 .options-list::-webkit-scrollbar-thumb{
     background-color: #00a8ff;
 }
+
+.options-list.active{
+    height: 180px;
+}
