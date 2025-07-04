@@ -18,3 +18,14 @@ body {
     cursor: pointer;
     position: relative;
 }
+
+.select {
+    background-color: #201e1e;
+    padding: 20px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
