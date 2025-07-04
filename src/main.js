@@ -18,6 +18,7 @@ options.forEach((option) => {
             option.classList.remove('selected')
         })
         select.querySelector("span").innerHTML = option.innerHTML;
+        option.classList.add('selected')
     })
 
 })
