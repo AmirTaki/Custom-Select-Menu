@@ -4,3 +4,11 @@
     box-sizing: border-box;
     font-family:"Montserrat" ;
 }
+
+body {
+    background-color: #c7ecee;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
